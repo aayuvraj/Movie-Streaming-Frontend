@@ -1,0 +1,14 @@
+[
+  {
+    "name": "player-name",
+    "path": "/player/:name?",
+    "component": "C:\\\\Users\\\\ashah67\\\\Desktop\\\\Personal Projects\\\\Movie Streaming Service\\\\Movie Streaming Service\\\\frontend\\\\pages\\\\player\\\\_name.vue",
+    "chunkName": "pages/player/_name"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\ashah67\\\\Desktop\\\\Personal Projects\\\\Movie Streaming Service\\\\Movie Streaming Service\\\\frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
