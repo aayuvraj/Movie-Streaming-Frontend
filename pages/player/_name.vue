@@ -1,8 +1,8 @@
 <template>
     <div class="player">
         <video controls muted autoPlay crossOrigin="anonymous">
-            <source :src="`http://localhost:5000/videos/video/${vidName}`" type="video/mp4">
-            <track label="English" kind="captions" srcLang="en" :src="`http://localhost:5000/videos/video/${vidName}/caption`" default>
+            <source :src="`https://cinema-24x7.herokuapp.com/videos/video/${vidName}`" type="video/mp4">
+            <track label="English" kind="captions" srcLang="en" :src="`https://cinema-24x7.herokuapp.com/videos/video/${vidName}/caption`" default>
         </video>
     </div>
 </template>
